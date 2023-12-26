@@ -1,0 +1,21 @@
+body{
+
+        overflow-x:hidden;
+ 
+}
+
+
+.secbackground{
+    background-color: #A0CDCD;
+
+}
+.favourite{
+    font-size: 60px;
+    color: #009387;
+    font-family: "covered by your Grace";
+   
+} .back{
+        background-image: url(../imgs/cooki.png) ;
+        background-repeat:no-repeat;
+        
+    }
